@@ -210,8 +210,13 @@ side shows the receiver's initials, dimmed.
   [build plan](build-plan.md).
 - The connector type of the XVF3800 speaker port; check it when the board
   arrives (see the [parts list](parts.md)).
-- Which acrylic grade and light transmission look best over the louver grid;
-  test samples before ordering the full sheet.
+- Whether the recommended acrylic is bright enough over the louver grid.
+  Chemcast Black LED acrylic from TAP Plastics is made for LED pixel displays
+  behind printed light-isolation grids: it is matte black when unlit and
+  passes about 29% of the light (checked 2026-10-24). Plain smoked gray (for
+  example, a 57% grade) is see-through and would show the grid and wiring.
+  Confirm with a sample over a lit panel before ordering the cut sheet, which
+  cannot be returned.
 
 ## Deferred
 
