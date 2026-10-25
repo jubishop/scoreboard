@@ -137,11 +137,12 @@ All decisions below were made with the user on 2026-10-24.
 - **Zero 2 W supply (2026-10-24).** The Zero 2 W was sold out at US online
   retailers (Adafruit, PiShop.us, CanaKit, SparkFun, Vilros, Chicago
   Electronic Distributors), and Micro Center sells it only in its stores,
-  none of which is near Seattle. The user is tracking restocks. The Pi isn't
+  none of which is near Seattle. The user backordered the with-header version
+  (SC0721) from Digi-Key that day, expected on 2026-11-23. The Pi isn't
   needed until integration, because the display, game engine, and voice
-  pipeline can all be prototyped on the Mac first. Proposed fallback if none
-  arrives by then: a Raspberry Pi 5 1 GB ($45, in stock at PiShop.us that day),
-  in the same role. The Pi 3 A+ and Pi 4 1 GB were also sold out online.
+  pipeline can all be prototyped on the Mac first. Proposed fallback if the
+  backorder slips past integration: a Raspberry Pi 5 1 GB ($45, in stock at
+  PiShop.us that day), in the same role. The Pi 3 A+ and Pi 4 1 GB were also sold out online.
 
 ### Repository
 

@@ -22,7 +22,7 @@ hardware.
 
 | Item | Qty | Source | Price | Notes |
 | --- | --- | --- | --- | --- |
-| Raspberry Pi Zero 2 WH (pre-soldered header), part SC0721 | 1 | Approved reseller | About $15–20 | Sold out at US online retailers on 2026-10-24, but Digi-Key and Newark take backorders; the user is tracking restocks, with a Pi 5 1 GB ($45) as the [fallback](design.md#computer). The header takes the three UART jumpers |
+| Raspberry Pi Zero 2 WH (pre-soldered header), part SC0721 | 1 | [Digi-Key](https://www.digikey.com/en/products/detail/raspberry-pi/SC0721/24627135) | $18 | Backordered from Digi-Key on 2026-10-24 after it sold out at US online retailers; expected on 2026-11-23. If that slips badly, the [fallback](design.md#computer) is a Pi 5 1 GB ($45). The header takes the three UART jumpers |
 | microSD card, 32 GB, A1 or A2 | 1 | Reputable brand | About $10 | |
 | reSpeaker XVF3800 USB 4-Mic Array, without XIAO | 1 | Seeed Studio | $60.99 | Echo cancellation, beamforming, noise suppression, a 5 W amplifier with a JST speaker port, and a 3.5 mm output |
 | Enclosed speaker, 3 W 4 Ω | 1 | Adafruit 3351 | $3.95 | Plain wires; crimp the plug that matches the XVF3800 speaker port once its type is confirmed |
