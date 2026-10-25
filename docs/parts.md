@@ -31,9 +31,8 @@ hardware.
 
 ## Power
 
-The design's [proposed 12 V power](design.md#proposed-implementation) is not
-accepted yet. The 5 V alternative is the Adafruit 5 V 10 A supply (658,
-$29.95, 74 in stock on 2026-10-24), but its cord must stay short.
+Power is [12 V with a converter in the case](design.md#placement-and-power),
+chosen on 2026-10-24.
 
 | Item | Qty | Source | Price | Notes |
 | --- | --- | --- | --- | --- |

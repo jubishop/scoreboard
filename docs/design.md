@@ -72,6 +72,13 @@ All decisions below were made with the user on 2026-10-24.
   player.
 - **An external power brick and one DC cord** up the wall to a panel-mount
   jack on the case. No mains wiring goes inside the 3D-printed enclosure.
+- **12 V power with a converter in the case** (chosen 2026-10-24). A UL-listed
+  12 V brick feeds a fused 12→5 V buck converter rated at least 8 A inside
+  the case, which powers the panels, the Portal, and the Pi Zero. At 5 V, 3–5 A
+  down a 2 m cord sags enough to brown out the Pi Zero, which needs at least
+  about 4.65 V. Tradeoffs: one more part ($15–30), some heat in the case, and
+  possible switching noise in the audio, so choose a quality, filtered
+  converter. The Portal firmware caps total brightness to fit the power budget.
 
 ### Voice
 
@@ -140,11 +147,6 @@ All decisions below were made with the user on 2026-10-24.
 These are recommendations that have not been accepted yet. Confirm or replace
 each one when the related work starts.
 
-- **12 V power with a converter in the case.** 3–5 A at 5 V down a 2 m DC cord
-  sags enough to brown out the Pi Zero, which needs at least about 4.65 V. A
-  UL-listed 12 V brick feeds a fused 12→5 V buck converter rated at least 8 A
-  inside the case, and nothing above 12 V enters the enclosure. The Portal
-  firmware caps total brightness to fit the power budget.
 - **Pi Zero software:** a Python asyncio service under systemd with
   openWakeWord (a custom "scoreboard" model trained on synthetic voices), a
   local voice activity detector, the Deepgram, TypeSafe, and Anthropic SDKs,
