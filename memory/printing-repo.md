@@ -6,11 +6,13 @@ type: user
 
 # Printing repository
 
-Before designing or printing scoreboard parts on the Bambu Lab X2D, read the
-user's printing repository at `~/projects/printing` (`jubishop/printing`).
-Its `memory/` holds X2D setup knowledge, workflow decisions, and past cases;
-start with `memory/x2d-setup.md`, and search it with that repository's own
-knowledge commands.
+The user's printing repository at `~/projects/printing` (`jubishop/printing`)
+is the shared clearinghouse for 3D-printing knowledge across their projects.
+Before designing or printing scoreboard parts on the Bambu Lab X2D, read it
+instead of rediscovering what it records. Its `memory/` holds X2D setup
+knowledge, workflow decisions, and past cases. Start with
+`memory/x2d-setup.md`, and search it with that repository's own knowledge
+commands.
 
 Push any generic printing lessons learned here back into that repository, such
 as material, tolerance, orientation, or X2D behavior that applies beyond this
