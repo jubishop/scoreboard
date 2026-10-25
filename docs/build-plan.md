@@ -61,7 +61,9 @@ corrections.
 Design the frame in keyed sections, a louver grid for each panel, the back
 shell, mic and speaker grilles facing the table, the light-sensor pinhole,
 cable strain relief, and the French cleat. Test-fit the prints, then order the
-acrylic to the final opening size and assemble.
+acrylic to the final opening size and assemble. Consult the
+[printing repository](../memory/printing-repo.md) before printing, and push
+generic printing lessons back to it.
 
 **Done when:** everything fits inside the case, with one DC cord out.
 

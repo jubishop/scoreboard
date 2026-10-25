@@ -59,3 +59,6 @@ review records or convert them into ordinary memory pages.
 ## Active pages
 
 Add links as durable knowledge is established. Do not seed invented memories.
+
+- [Printing repository](printing-repo.md): consult `~/projects/printing`
+  before printing parts, and push generic printing lessons back to it.
