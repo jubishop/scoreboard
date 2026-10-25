@@ -133,9 +133,15 @@ All decisions below were made with the user on 2026-10-24.
   v10.6 (August 2026) fixed Orange Pi Zero 2W instability caused by its
   onboard Wi-Fi driver. The Radxa's AIC8800 Wi-Fi has no mainline driver and
   broke after a DietPi update in December 2025. For a sealed, always-on Wi-Fi
-  device, first-party OS and Wi-Fi support matter more. If Zero 2 W stock is
-  short, the fallback is a Raspberry Pi 3 A+ (larger at 65×56 mm, with
-  dual-band Wi-Fi and a full USB-A port).
+  device, first-party OS and Wi-Fi support matter more.
+- **Zero 2 W supply (2026-10-24).** The Zero 2 W was sold out at US online
+  retailers (Adafruit, PiShop.us, CanaKit, SparkFun, Vilros, Chicago
+  Electronic Distributors), and Micro Center sells it only in its stores,
+  none of which is near Seattle. The user is tracking restocks. The Pi isn't
+  needed until integration, because the display, game engine, and voice
+  pipeline can all be prototyped on the Mac first. Proposed fallback if none
+  arrives by then: a Raspberry Pi 5 1 GB ($45, in stock at PiShop.us that day),
+  in the same role. The Pi 3 A+ and Pi 4 1 GB were also sold out online.
 
 ### Repository
 
