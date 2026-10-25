@@ -215,8 +215,10 @@ side shows the receiver's initials, dimmed.
   behind printed light-isolation grids: it is matte black when unlit and
   passes about 29% of the light (checked 2026-10-24). Plain smoked gray (for
   example, a 57% grade) is see-through and would show the grid and wiring.
-  Confirm with a sample over a lit panel before ordering the cut sheet, which
-  cannot be returned.
+  On 2026-10-24 the user chose to skip TAP's sample, which costs $12.40 with
+  shipping. Instead, view a lit panel through ordinary sunglasses, which pass
+  about 18–43% of light, before ordering the cut sheet, which cannot be
+  returned.
 
 ## Deferred
 

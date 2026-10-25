@@ -47,7 +47,7 @@ $29.95, 74 in stock on 2026-10-24), but its cord must stay short.
 
 | Item | Qty | Source | Price | Notes |
 | --- | --- | --- | --- | --- |
-| Chemcast Black LED acrylic, 1/8 in (3 mm), cut to size | 1 | [TAP Plastics](https://www.tapplastics.com/product/plastics/cut_to_size_plastic/black_led_sheet/) | About $20–40 (from $15) | Matte black when unlit, about 29% light transmission. Order after the frame CAD sets the size, and check a sample over a lit panel first, because cut-to-size pieces can't be returned |
+| Chemcast Black LED acrylic, 1/8 in (3 mm), cut to size | 1 | [TAP Plastics](https://www.tapplastics.com/product/plastics/cut_to_size_plastic/black_led_sheet/) | About $20–40 (from $15) | Matte black when unlit, about 29% light transmission. Order after the frame CAD sets the size. Cut-to-size pieces can't be returned, so first view a lit panel through sunglasses; this replaces TAP's $12.40 sample |
 | Matte black PLA (louver grids) and PETG (frame and back shell) | — | Already owned | — | Printed on the Bambu Lab X2D (256×256 mm bed) |
 | M3 heat-set inserts and screws | — | Any | About $10 | |
 | French cleat and wall anchors | 1 | Printed or aluminum | — | |
