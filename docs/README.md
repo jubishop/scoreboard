@@ -54,6 +54,10 @@ hand-written pages to bypass failed checks.
 
 ## Active pages
 
+- [Scoreboard design](design.md): architecture, accepted decisions, proposed
+  implementation, and deferred scope.
+- [Parts and accounts](parts.md): what to buy and which services to set up.
+- [Build plan](build-plan.md): build phases from bench prototypes to install.
 - [Project Starter foundation](foundation/README.md): shared engineering,
   knowledge search, and task tracking policy.
 - [Development workflow](development-workflow.md): this project's setup,

@@ -1,7 +1,11 @@
 # Scoreboard
 
-Voice-controlled LED matrix scoreboard for ping pong, built on a Raspberry
-Pi 5. The project has no application yet, so it has no entry points.
+Voice-controlled LED matrix scoreboard for ping pong. Say "Scoreboard, point
+Sam" and a 128×64 RGB LED matrix on the wall updates the score and shows who
+serves. A Raspberry Pi Zero 2 W handles voice and game rules, and an Adafruit
+Matrix Portal S3 drives the panels. See the [design](docs/design.md),
+[parts list](docs/parts.md), and [build plan](docs/build-plan.md). The project
+has no application yet, so it has no entry points.
 
 Released under the [MIT License](LICENSE).
 

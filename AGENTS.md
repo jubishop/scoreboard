@@ -40,7 +40,10 @@ take precedence over this block and the foundation pages wherever they differ.
 
 ## Project
 
-Scoreboard is a voice-controlled LED matrix scoreboard for ping pong, built on
-a Raspberry Pi 5. It has no application yet, so it has no project commands,
-stronger requirements, or exceptions beyond the block above; the
-[development workflow](docs/development-workflow.md) records setup and checks.
+Scoreboard is a voice-controlled LED matrix scoreboard for ping pong: a
+Raspberry Pi Zero 2 W handles voice and game rules, and an Adafruit Matrix
+Portal S3 drives the panels. The [design](docs/design.md) records accepted
+decisions; keep it current as decisions change. It has no application yet, so
+it has no project commands, stronger requirements, or exceptions beyond the
+block above; the [development workflow](docs/development-workflow.md) records
+setup and checks.
