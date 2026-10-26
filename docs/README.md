@@ -1,9 +1,8 @@
 # Documents
 
 Store designs, decisions, research, and reference guides here. Use
-[memory](../memory/README.md) for durable guidance and non-derivable context,
-[td](foundation/task-tracking.md) for local progress and handoffs, and the
-project's issue tracker for shared scope and acceptance criteria.
+[memory](../memory/README.md) for durable guidance and non-derivable context
+and the project's issue tracker for tracked work and acceptance criteria.
 
 ## Page format
 
@@ -58,8 +57,8 @@ hand-written pages to bypass failed checks.
   implementation, and deferred scope.
 - [Parts and accounts](parts.md): what to buy and which services to set up.
 - [Build plan](build-plan.md): build phases from bench prototypes to install.
-- [Project Starter foundation](foundation/README.md): shared engineering,
-  knowledge search, and task tracking policy.
+- [Project Starter foundation](foundation/README.md): shared engineering
+  and knowledge search policy.
 - [Development workflow](development-workflow.md): this project's setup,
   checks, versions, and deployment.
 - [Git remotes](git-remotes.md): the primary remote and fresh-clone setup.

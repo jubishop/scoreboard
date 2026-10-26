@@ -6,7 +6,7 @@ status: current
 
 The order in which to build the [scoreboard design](design.md), from bench
 prototypes to a wall-mounted unit. Each phase ends with something
-demonstrable. The phases are tracked as td tasks. Display, game engine, and
+demonstrable. Display, game engine, and
 voice work can proceed in parallel once parts arrive.
 
 ## 1. Accounts and parts
